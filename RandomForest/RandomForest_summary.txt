@@ -1,0 +1,1064 @@
+MODEL OF TIER 1, TICK 0
+	Accuracy: 0.999759357703835
+	Precision: 0.9961240310077519
+	Recall: 0.9625468164794008
+	TNR: 0.9999779948948156
+	FPR: 2.200510518440278e-05
+	FNR: 0.03745318352059925
+
+MODEL OF TIER 1, TICK 1
+	Accuracy: 0.9997372914751084
+	Precision: 0.9919354838709677
+	Recall: 0.9609375
+	TNR: 0.9999559684734269
+	FPR: 4.4031526573026284e-05
+	FNR: 0.0390625
+
+MODEL OF TIER 1, TICK 2
+	Accuracy: 0.9995159409447952
+	Precision: 1.0
+	Recall: 0.9055793991416309
+	TNR: 1.0
+	FPR: 0.0
+	FNR: 0.0944206008583691
+
+MODEL OF TIER 1, TICK 3
+	Accuracy: 0.9995795250846482
+	Precision: 0.9731182795698925
+	Recall: 0.9282051282051282
+	TNR: 0.9998888691322901
+	FPR: 0.00011113086770981508
+	FNR: 0.07179487179487179
+
+MODEL OF TIER 1, TICK 4
+	Accuracy: 0.9998222538215429
+	Precision: 0.9929577464788732
+	Recall: 0.9527027027027027
+	TNR: 0.9999777084262149
+	FPR: 2.229157378510923e-05
+	FNR: 0.0472972972972973
+
+MODEL OF TIER 1, TICK 5
+	Accuracy: 0.9997326381926341
+	Precision: 0.9857142857142858
+	Recall: 0.9324324324324325
+	TNR: 0.9999552922767408
+	FPR: 4.4707723259193026e-05
+	FNR: 0.06756756756756757
+
+MODEL OF TIER 1, TICK 6
+	Accuracy: 0.9995513381340153
+	Precision: 0.989247311827957
+	Recall: 0.8288288288288288
+	TNR: 0.99997751090721
+	FPR: 2.248909278999685e-05
+	FNR: 0.17117117117117117
+
+MODEL OF TIER 1, TICK 7
+	Accuracy: 0.9995496104130073
+	Precision: 0.9726027397260274
+	Recall: 0.797752808988764
+	TNR: 0.9999548705914209
+	FPR: 4.5129408579100573e-05
+	FNR: 0.20224719101123595
+
+MODEL OF TIER 1, TICK 8
+	Accuracy: 0.9996163740578599
+	Precision: 1.0
+	Recall: 0.7951807228915663
+	TNR: 1.0
+	FPR: 0.0
+	FNR: 0.20481927710843373
+
+MODEL OF TIER 1, TICK 9
+	Accuracy: 0.9996836229689725
+	Precision: 1.0
+	Recall: 0.7878787878787878
+	TNR: 1.0
+	FPR: 0.0
+	FNR: 0.21212121212121213
+
+MODEL OF TIER 1, TICK 10
+	Accuracy: 0.9996831073586998
+	Precision: 1.0
+	Recall: 0.7543859649122807
+	TNR: 1.0
+	FPR: 0.0
+	FNR: 0.24561403508771928
+
+MODEL OF TIER 1, TICK 11
+	Accuracy: 0.9996147221466776
+	Precision: 1.0
+	Recall: 0.6304347826086957
+	TNR: 1.0
+	FPR: 0.0
+	FNR: 0.3695652173913043
+
+MODEL OF TIER 1, TICK 12
+	Accuracy: 0.9997270866499887
+	Precision: 1.0
+	Recall: 0.6470588235294118
+	TNR: 1.0
+	FPR: 0.0
+	FNR: 0.35294117647058826
+
+MODEL OF TIER 1, TICK 13
+	Accuracy: 0.9997020262216925
+	Precision: 1.0
+	Recall: 0.5517241379310345
+	TNR: 1.0
+	FPR: 0.0
+	FNR: 0.4482758620689655
+
+MODEL OF TIER 1, TICK 14
+	Accuracy: 0.9996511790149295
+	Precision: 1.0
+	Recall: 0.5161290322580645
+	TNR: 1.0
+	FPR: 0.0
+	FNR: 0.4838709677419355
+
+MODEL OF TIER 1, TICK 15
+	Accuracy: 0.9997125128770273
+	Precision: 1.0
+	Recall: 0.4
+	TNR: 1.0
+	FPR: 0.0
+	FNR: 0.6
+
+MODEL OF TIER 1, TICK 16
+	Accuracy: 0.999769785644856
+	Precision: 1.0
+	Recall: 0.4
+	TNR: 1.0
+	FPR: 0.0
+	FNR: 0.6
+
+MODEL OF TIER 1, TICK 17
+	Accuracy: 0.9996593328601845
+	Precision: 1.0
+	Recall: 0.3333333333333333
+	TNR: 1.0
+	FPR: 0.0
+	FNR: 0.6666666666666666
+
+MODEL OF TIER 1, TICK 18
+	Accuracy: 0.9997934808797715
+	Precision: 1.0
+	Recall: 0.4
+	TNR: 1.0
+	FPR: 0.0
+	FNR: 0.6
+
+MODEL OF TIER 1, TICK 19
+	Accuracy: 0.999611838913149
+	Precision: 1.0
+	Recall: 0.2
+	TNR: 1.0
+	FPR: 0.0
+	FNR: 0.8
+
+MODEL OF TIER 1, TICK 20
+	Accuracy: 0.9996057715051644
+	Precision: 1.0
+	Recall: 0.375
+	TNR: 1.0
+	FPR: 0.0
+	FNR: 0.625
+
+MODEL OF TIER 1, TICK 21
+	Accuracy: 0.9984466689678978
+	Precision: 1.0
+	Recall: 0.1
+	TNR: 1.0
+	FPR: 0.0
+	FNR: 0.9
+
+MODEL OF TIER 1, TICK 22
+	Accuracy: 0.9983980776932319
+	Precision: 0.0
+	Recall: 0.0
+	TNR: 1.0
+	FPR: 0.0
+	FNR: 1.0
+
+MODEL OF TIER 1, TICK 23
+	Accuracy: 0.9990566037735849
+	Precision: 0.0
+	Recall: 0.0
+	TNR: 1.0
+	FPR: 0.0
+	FNR: 1.0
+
+MODEL OF TIER 1, TICK 24
+	Accuracy: 1.0
+	Precision: 0.0
+	Recall: 0.0
+	TNR: 1.0
+	FPR: 0.0
+	FNR: 0
+No roc curve available for tier 1 tick 24.
+
+MODEL OF TIER 1, TICK 25
+	Accuracy: 0.9852941176470589
+	Precision: 0.0
+	Recall: 0.0
+	TNR: 1.0
+	FPR: 0.0
+	FNR: 1.0
+No roc curve available for tier 1 tick 25.
+
+MODEL OF TIER 1, TICK 26
+	Accuracy: 1.0
+	Precision: 0.0
+	Recall: 0.0
+	TNR: 1.0
+	FPR: 0.0
+	FNR: 0
+No learning curves available for tier 1 tick 26.
+No roc curve available for tier 1 tick 26.
+
+MODEL OF TIER 1, TICK 27
+	Accuracy: 0
+	Precision: 0
+	Recall: 0
+	TNR: 1.0
+	FPR: 0.0
+	FNR: 0
+No confusion matrix available for tier 1 tick 27.
+No learning curves available for tier 1 tick 27.
+No roc curve available for tier 1 tick 27.
+
+MODEL OF TIER 2, TICK 0
+	Accuracy: 0.9997153990980341
+	Precision: 1.0
+	Recall: 0.9469387755102041
+	TNR: 1.0
+	FPR: 0.0
+	FNR: 0.053061224489795916
+
+MODEL OF TIER 2, TICK 1
+	Accuracy: 0.9997565671542701
+	Precision: 1.0
+	Recall: 0.9427083333333334
+	TNR: 1.0
+	FPR: 0.0
+	FNR: 0.057291666666666664
+
+MODEL OF TIER 2, TICK 2
+	Accuracy: 0.9997771438759138
+	Precision: 0.9912280701754386
+	Recall: 0.9262295081967213
+	TNR: 0.9999776536312849
+	FPR: 2.23463687150838e-05
+	FNR: 0.07377049180327869
+
+MODEL OF TIER 2, TICK 3
+	Accuracy: 0.9997748052065036
+	Precision: 0.9850746268656716
+	Recall: 0.88
+	TNR: 0.9999774424217815
+	FPR: 2.2557578218402474e-05
+	FNR: 0.12
+
+MODEL OF TIER 2, TICK 4
+	Accuracy: 0.9996384262502542
+	Precision: 0.9824561403508771
+	Recall: 0.7887323943661971
+	TNR: 0.9999773653236759
+	FPR: 2.2634676324128565e-05
+	FNR: 0.2112676056338028
+
+MODEL OF TIER 2, TICK 5
+	Accuracy: 0.9996600104263469
+	Precision: 1.0
+	Recall: 0.6875
+	TNR: 1.0
+	FPR: 0.0
+	FNR: 0.3125
+
+MODEL OF TIER 2, TICK 6
+	Accuracy: 0.9998395452253244
+	Precision: 1.0
+	Recall: 0.6956521739130435
+	TNR: 1.0
+	FPR: 0.0
+	FNR: 0.30434782608695654
+
+MODEL OF TIER 2, TICK 7
+	Accuracy: 0.999736457509763
+	Precision: 1.0
+	Recall: 0.3125
+	TNR: 1.0
+	FPR: 0.0
+	FNR: 0.6875
+
+MODEL OF TIER 2, TICK 8
+	Accuracy: 0.9998012718600954
+	Precision: 1.0
+	Recall: 0.5333333333333333
+	TNR: 1.0
+	FPR: 0.0
+	FNR: 0.4666666666666667
+
+MODEL OF TIER 2, TICK 9
+	Accuracy: 0.9998059100393032
+	Precision: 1.0
+	Recall: 0.3333333333333333
+	TNR: 1.0
+	FPR: 0.0
+	FNR: 0.6666666666666666
+
+MODEL OF TIER 2, TICK 10
+	Accuracy: 0.9994821336095288
+	Precision: 1.0
+	Recall: 0.4
+	TNR: 1.0
+	FPR: 0.0
+	FNR: 0.6
+
+MODEL OF TIER 2, TICK 11
+	Accuracy: 1.0
+	Precision: 0.0
+	Recall: 0.0
+	TNR: 1.0
+	FPR: 0.0
+	FNR: 0
+No roc curve available for tier 2 tick 11.
+
+MODEL OF TIER 2, TICK 12
+	Accuracy: 0.9852941176470589
+	Precision: 0.0
+	Recall: 0.0
+	TNR: 1.0
+	FPR: 0.0
+	FNR: 1.0
+No roc curve available for tier 2 tick 12.
+
+MODEL OF TIER 2, TICK 13
+	Accuracy: 0
+	Precision: 0
+	Recall: 0
+	TNR: 1.0
+	FPR: 0.0
+	FNR: 1.0
+No confusion matrix available for tier 2 tick 13.
+No learning curves available for tier 2 tick 13.
+No roc curve available for tier 2 tick 13.
+
+MODEL OF TIER 3, TICK 0
+	Accuracy: 0.9996449100068798
+	Precision: 0.9754901960784313
+	Recall: 0.9476190476190476
+	TNR: 0.9998885147940868
+	FPR: 0.00011148520591317533
+	FNR: 0.05238095238095238
+
+MODEL OF TIER 3, TICK 1
+	Accuracy: 0.999617814347699
+	Precision: 0.9831932773109243
+	Recall: 0.8863636363636364
+	TNR: 0.9999549031545243
+	FPR: 4.5096845475658976e-05
+	FNR: 0.11363636363636363
+
+MODEL OF TIER 3, TICK 2
+	Accuracy: 0.9998178630785693
+	Precision: 0.9883720930232558
+	Recall: 0.9239130434782609
+	TNR: 0.9999771850973056
+	FPR: 2.281490269444001e-05
+	FNR: 0.07608695652173914
+
+MODEL OF TIER 3, TICK 3
+	Accuracy: 0.9998628038323463
+	Precision: 1.0
+	Recall: 0.8421052631578947
+	TNR: 1.0
+	FPR: 0.0
+	FNR: 0.15789473684210525
+
+MODEL OF TIER 3, TICK 4
+	Accuracy: 0.99988268969077
+	Precision: 1.0
+	Recall: 0.782608695652174
+	TNR: 1.0
+	FPR: 0.0
+	FNR: 0.21739130434782608
+
+MODEL OF TIER 3, TICK 5
+	Accuracy: 0.9998279668549473
+	Precision: 1.0
+	Recall: 0.45454545454545453
+	TNR: 1.0
+	FPR: 0.0
+	FNR: 0.5454545454545454
+
+MODEL OF TIER 3, TICK 6
+	Accuracy: 0.9996816807257679
+	Precision: 1.0
+	Recall: 0.5555555555555556
+	TNR: 1.0
+	FPR: 0.0
+	FNR: 0.4444444444444444
+
+MODEL OF TIER 3, TICK 7
+	Accuracy: 0.9981132075471698
+	Precision: 0.0
+	Recall: 0.0
+	TNR: 1.0
+	FPR: 0.0
+	FNR: 1.0
+
+MODEL OF TIER 3, TICK 8
+	Accuracy: 0
+	Precision: 0
+	Recall: 0
+	TNR: 1.0
+	FPR: 0.0
+	FNR: 1.0
+No confusion matrix available for tier 3 tick 8.
+No learning curves available for tier 3 tick 8.
+No roc curve available for tier 3 tick 8.
+
+MODEL OF TIER 4, TICK 0
+	Accuracy: 0.9996428332254392
+	Precision: 0.9880239520958084
+	Recall: 0.9217877094972067
+	TNR: 0.9999551750414631
+	FPR: 4.482495853691335e-05
+	FNR: 0.0782122905027933
+
+MODEL OF TIER 4, TICK 1
+	Accuracy: 0.9997500851982278
+	Precision: 1.0
+	Recall: 0.8921568627450981
+	TNR: 1.0
+	FPR: 0.0
+	FNR: 0.10784313725490197
+
+MODEL OF TIER 4, TICK 2
+	Accuracy: 0.9997484736926349
+	Precision: 1.0
+	Recall: 0.7027027027027027
+	TNR: 1.0
+	FPR: 0.0
+	FNR: 0.2972972972972973
+
+MODEL OF TIER 4, TICK 3
+	Accuracy: 0.9997582555722091
+	Precision: 1.0
+	Recall: 0.5238095238095238
+	TNR: 1.0
+	FPR: 0.0
+	FNR: 0.47619047619047616
+
+MODEL OF TIER 4, TICK 4
+	Accuracy: 0.99975564460952
+	Precision: 1.0
+	Recall: 0.4444444444444444
+	TNR: 1.0
+	FPR: 0.0
+	FNR: 0.5555555555555556
+
+MODEL OF TIER 4, TICK 5
+	Accuracy: 0.9990566037735849
+	Precision: 0.0
+	Recall: 0.0
+	TNR: 1.0
+	FPR: 0.0
+	FNR: 1.0
+
+MODEL OF TIER 4, TICK 6
+	Accuracy: 0
+	Precision: 0
+	Recall: 0
+	TNR: 1.0
+	FPR: 0.0
+	FNR: 1.0
+No confusion matrix available for tier 4 tick 6.
+No learning curves available for tier 4 tick 6.
+No roc curve available for tier 4 tick 6.
+
+MODEL OF TIER 5, TICK 0
+	Accuracy: 0.9997111624600071
+	Precision: 0.9933774834437086
+	Recall: 0.9259259259259259
+	TNR: 0.9999777014672434
+	FPR: 2.229853275654462e-05
+	FNR: 0.07407407407407407
+
+MODEL OF TIER 5, TICK 1
+	Accuracy: 0.9998418114844863
+	Precision: 1.0
+	Recall: 0.8985507246376812
+	TNR: 1.0
+	FPR: 0.0
+	FNR: 0.10144927536231885
+
+MODEL OF TIER 5, TICK 2
+	Accuracy: 0.9996976884796056
+	Precision: 1.0
+	Recall: 0.4583333333333333
+	TNR: 1.0
+	FPR: 0.0
+	FNR: 0.5416666666666666
+
+MODEL OF TIER 5, TICK 3
+	Accuracy: 0.9998059194565745
+	Precision: 1.0
+	Recall: 0.5
+	TNR: 1.0
+	FPR: 0.0
+	FNR: 0.5
+
+MODEL OF TIER 5, TICK 4
+	Accuracy: 1.0
+	Precision: 0.0
+	Recall: 0.0
+	TNR: 1.0
+	FPR: 0.0
+	FNR: 0
+No roc curve available for tier 5 tick 4.
+
+MODEL OF TIER 5, TICK 5
+	Accuracy: 0
+	Precision: 0
+	Recall: 0
+	TNR: 1.0
+	FPR: 0.0
+	FNR: 0
+No confusion matrix available for tier 5 tick 5.
+No learning curves available for tier 5 tick 5.
+No roc curve available for tier 5 tick 5.
+
+MODEL OF TIER 6, TICK 0
+	Accuracy: 0.9997325726510965
+	Precision: 1.0
+	Recall: 0.9148936170212766
+	TNR: 1.0
+	FPR: 0.0
+	FNR: 0.0851063829787234
+
+MODEL OF TIER 6, TICK 1
+	Accuracy: 0.9999773365968634
+	Precision: 1.0
+	Recall: 0.96875
+	TNR: 1.0
+	FPR: 0.0
+	FNR: 0.03125
+
+MODEL OF TIER 6, TICK 2
+	Accuracy: 0.9996877129230071
+	Precision: 1.0
+	Recall: 0.35294117647058826
+	TNR: 1.0
+	FPR: 0.0
+	FNR: 0.6470588235294118
+
+MODEL OF TIER 6, TICK 3
+	Accuracy: 0.9990566037735849
+	Precision: 0.0
+	Recall: 0.0
+	TNR: 1.0
+	FPR: 0.0
+	FNR: 1.0
+
+MODEL OF TIER 6, TICK 4
+	Accuracy: 0
+	Precision: 0
+	Recall: 0
+	TNR: 1.0
+	FPR: 0.0
+	FNR: 1.0
+No confusion matrix available for tier 6 tick 4.
+No learning curves available for tier 6 tick 4.
+No roc curve available for tier 6 tick 4.
+
+MODEL OF TIER 7, TICK 0
+	Accuracy: 0.9997510354661295
+	Precision: 1.0
+	Recall: 0.8990825688073395
+	TNR: 1.0
+	FPR: 0.0
+	FNR: 0.10091743119266056
+
+MODEL OF TIER 7, TICK 1
+	Accuracy: 0.9997918738292902
+	Precision: 1.0
+	Recall: 0.64
+	TNR: 1.0
+	FPR: 0.0
+	FNR: 0.36
+
+MODEL OF TIER 7, TICK 2
+	Accuracy: 0.9994429412700939
+	Precision: 1.0
+	Recall: 0.3
+	TNR: 1.0
+	FPR: 0.0
+	FNR: 0.7
+
+MODEL OF TIER 7, TICK 3
+	Accuracy: 0
+	Precision: 0
+	Recall: 0
+	TNR: 1.0
+	FPR: 0.0
+	FNR: 0.7
+No confusion matrix available for tier 7 tick 3.
+No learning curves available for tier 7 tick 3.
+No roc curve available for tier 7 tick 3.
+
+MODEL OF TIER 8, TICK 0
+	Accuracy: 0.9997046461433602
+	Precision: 0.9878048780487805
+	Recall: 0.8709677419354839
+	TNR: 0.9999772323664678
+	FPR: 2.2767633532170667e-05
+	FNR: 0.12903225806451613
+
+MODEL OF TIER 8, TICK 1
+	Accuracy: 0.9998307789005464
+	Precision: 1.0
+	Recall: 0.6666666666666666
+	TNR: 1.0
+	FPR: 0.0
+	FNR: 0.3333333333333333
+
+MODEL OF TIER 8, TICK 2
+	Accuracy: 0.9971698113207547
+	Precision: 0.0
+	Recall: 0.0
+	TNR: 1.0
+	FPR: 0.0
+	FNR: 1.0
+
+MODEL OF TIER 8, TICK 3
+	Accuracy: 0
+	Precision: 0
+	Recall: 0
+	TNR: 1.0
+	FPR: 0.0
+	FNR: 1.0
+No confusion matrix available for tier 8 tick 3.
+No learning curves available for tier 8 tick 3.
+No roc curve available for tier 8 tick 3.
+
+MODEL OF TIER 9, TICK 0
+	Accuracy: 0.9997013828272155
+	Precision: 0.9880952380952381
+	Recall: 0.8736842105263158
+	TNR: 0.9999769792122286
+	FPR: 2.3020787771357536e-05
+	FNR: 0.12631578947368421
+
+MODEL OF TIER 9, TICK 1
+	Accuracy: 0.9998262279888785
+	Precision: 1.0
+	Recall: 0.5714285714285714
+	TNR: 1.0
+	FPR: 0.0
+	FNR: 0.42857142857142855
+
+MODEL OF TIER 9, TICK 2
+	Accuracy: 0
+	Precision: 0
+	Recall: 0
+	TNR: 1.0
+	FPR: 0.0
+	FNR: 0.42857142857142855
+No confusion matrix available for tier 9 tick 2.
+No learning curves available for tier 9 tick 2.
+No roc curve available for tier 9 tick 2.
+
+MODEL OF TIER 10, TICK 0
+	Accuracy: 0.9997720018239854
+	Precision: 1.0
+	Recall: 0.8387096774193549
+	TNR: 1.0
+	FPR: 0.0
+	FNR: 0.16129032258064516
+
+MODEL OF TIER 10, TICK 1
+	Accuracy: 0.9998045156876161
+	Precision: 1.0
+	Recall: 0.5555555555555556
+	TNR: 1.0
+	FPR: 0.0
+	FNR: 0.4444444444444444
+
+MODEL OF TIER 10, TICK 2
+	Accuracy: 0
+	Precision: 0
+	Recall: 0
+	TNR: 1.0
+	FPR: 0.0
+	FNR: 0.4444444444444444
+No confusion matrix available for tier 10 tick 2.
+No learning curves available for tier 10 tick 2.
+No roc curve available for tier 10 tick 2.
+
+MODEL OF TIER 11, TICK 0
+	Accuracy: 0.9997962833020213
+	Precision: 1.0
+	Recall: 0.8421052631578947
+	TNR: 1.0
+	FPR: 0.0
+	FNR: 0.15789473684210525
+
+MODEL OF TIER 11, TICK 1
+	Accuracy: 0.9989642672190575
+	Precision: 0.0
+	Recall: 0.0
+	TNR: 1.0
+	FPR: 0.0
+	FNR: 1.0
+
+MODEL OF TIER 11, TICK 2
+	Accuracy: 0
+	Precision: 0
+	Recall: 0
+	TNR: 1.0
+	FPR: 0.0
+	FNR: 1.0
+No confusion matrix available for tier 11 tick 2.
+No learning curves available for tier 11 tick 2.
+No roc curve available for tier 11 tick 2.
+
+MODEL OF TIER 12, TICK 0
+	Accuracy: 0.9998866829843169
+	Precision: 1.0
+	Recall: 0.8809523809523809
+	TNR: 1.0
+	FPR: 0.0
+	FNR: 0.11904761904761904
+
+MODEL OF TIER 12, TICK 1
+	Accuracy: 0.9981132075471698
+	Precision: 0.0
+	Recall: 0.0
+	TNR: 1.0
+	FPR: 0.0
+	FNR: 1.0
+
+MODEL OF TIER 12, TICK 2
+	Accuracy: 0
+	Precision: 0
+	Recall: 0
+	TNR: 1.0
+	FPR: 0.0
+	FNR: 1.0
+No confusion matrix available for tier 12 tick 2.
+No learning curves available for tier 12 tick 2.
+No roc curve available for tier 12 tick 2.
+
+MODEL OF TIER 13, TICK 0
+	Accuracy: 0.9999317716624971
+	Precision: 1.0
+	Recall: 0.9210526315789473
+	TNR: 1.0
+	FPR: 0.0
+	FNR: 0.07894736842105263
+
+MODEL OF TIER 13, TICK 1
+	Accuracy: 1.0
+	Precision: 0.0
+	Recall: 0.0
+	TNR: 1.0
+	FPR: 0.0
+	FNR: 0
+No roc curve available for tier 13 tick 1.
+
+MODEL OF TIER 13, TICK 2
+	Accuracy: 0
+	Precision: 0
+	Recall: 0
+	TNR: 1.0
+	FPR: 0.0
+	FNR: 0
+No confusion matrix available for tier 13 tick 2.
+No learning curves available for tier 13 tick 2.
+No roc curve available for tier 13 tick 2.
+
+MODEL OF TIER 14, TICK 0
+	Accuracy: 0.9998624736407812
+	Precision: 1.0
+	Recall: 0.8064516129032258
+	TNR: 1.0
+	FPR: 0.0
+	FNR: 0.1935483870967742
+
+MODEL OF TIER 14, TICK 1
+	Accuracy: 0
+	Precision: 0
+	Recall: 0
+	TNR: 1.0
+	FPR: 0.0
+	FNR: 0.1935483870967742
+No confusion matrix available for tier 14 tick 1.
+No learning curves available for tier 14 tick 1.
+No roc curve available for tier 14 tick 1.
+
+MODEL OF TIER 15, TICK 0
+	Accuracy: 0.9998604716059718
+	Precision: 1.0
+	Recall: 0.75
+	TNR: 1.0
+	FPR: 0.0
+	FNR: 0.25
+
+MODEL OF TIER 15, TICK 1
+	Accuracy: 0
+	Precision: 0
+	Recall: 0
+	TNR: 1.0
+	FPR: 0.0
+	FNR: 0.25
+No confusion matrix available for tier 15 tick 1.
+No learning curves available for tier 15 tick 1.
+No roc curve available for tier 15 tick 1.
+
+MODEL OF TIER 16, TICK 0
+	Accuracy: 0.9997843846577705
+	Precision: 1.0
+	Recall: 0.7
+	TNR: 1.0
+	FPR: 0.0
+	FNR: 0.3
+
+MODEL OF TIER 16, TICK 1
+	Accuracy: 0
+	Precision: 0
+	Recall: 0
+	TNR: 1.0
+	FPR: 0.0
+	FNR: 0.3
+No confusion matrix available for tier 16 tick 1.
+No learning curves available for tier 16 tick 1.
+No roc curve available for tier 16 tick 1.
+
+MODEL OF TIER 17, TICK 0
+	Accuracy: 0.9998708911095618
+	Precision: 1.0
+	Recall: 0.5833333333333334
+	TNR: 1.0
+	FPR: 0.0
+	FNR: 0.4166666666666667
+
+MODEL OF TIER 17, TICK 1
+	Accuracy: 0
+	Precision: 0
+	Recall: 0
+	TNR: 1.0
+	FPR: 0.0
+	FNR: 0.4166666666666667
+No confusion matrix available for tier 17 tick 1.
+No learning curves available for tier 17 tick 1.
+No roc curve available for tier 17 tick 1.
+
+MODEL OF TIER 18, TICK 0
+	Accuracy: 0.9998012775017743
+	Precision: 1.0
+	Recall: 0.5882352941176471
+	TNR: 1.0
+	FPR: 0.0
+	FNR: 0.4117647058823529
+
+MODEL OF TIER 18, TICK 1
+	Accuracy: 0
+	Precision: 0
+	Recall: 0
+	TNR: 1.0
+	FPR: 0.0
+	FNR: 0.4117647058823529
+No confusion matrix available for tier 18 tick 1.
+No learning curves available for tier 18 tick 1.
+No roc curve available for tier 18 tick 1.
+
+MODEL OF TIER 19, TICK 0
+	Accuracy: 0.9998967404398857
+	Precision: 1.0
+	Recall: 0.75
+	TNR: 1.0
+	FPR: 0.0
+	FNR: 0.25
+
+MODEL OF TIER 19, TICK 1
+	Accuracy: 0
+	Precision: 0
+	Recall: 0
+	TNR: 1.0
+	FPR: 0.0
+	FNR: 0.25
+No confusion matrix available for tier 19 tick 1.
+No learning curves available for tier 19 tick 1.
+No roc curve available for tier 19 tick 1.
+
+MODEL OF TIER 20, TICK 0
+	Accuracy: 0.9995147986414362
+	Precision: 1.0
+	Recall: 0.4444444444444444
+	TNR: 1.0
+	FPR: 0.0
+	FNR: 0.5555555555555556
+
+MODEL OF TIER 20, TICK 1
+	Accuracy: 0
+	Precision: 0
+	Recall: 0
+	TNR: 1.0
+	FPR: 0.0
+	FNR: 0.5555555555555556
+No confusion matrix available for tier 20 tick 1.
+No learning curves available for tier 20 tick 1.
+No roc curve available for tier 20 tick 1.
+
+MODEL OF TIER 21, TICK 0
+	Accuracy: 0.9996786890513294
+	Precision: 1.0
+	Recall: 0.6666666666666666
+	TNR: 1.0
+	FPR: 0.0
+	FNR: 0.3333333333333333
+
+MODEL OF TIER 21, TICK 1
+	Accuracy: 0
+	Precision: 0
+	Recall: 0
+	TNR: 1.0
+	FPR: 0.0
+	FNR: 0.3333333333333333
+No confusion matrix available for tier 21 tick 1.
+No learning curves available for tier 21 tick 1.
+No roc curve available for tier 21 tick 1.
+
+MODEL OF TIER 22, TICK 0
+	Accuracy: 0.9996548153261995
+	Precision: 1.0
+	Recall: 0.3333333333333333
+	TNR: 1.0
+	FPR: 0.0
+	FNR: 0.6666666666666666
+
+MODEL OF TIER 22, TICK 1
+	Accuracy: 0
+	Precision: 0
+	Recall: 0
+	TNR: 1.0
+	FPR: 0.0
+	FNR: 0.6666666666666666
+No confusion matrix available for tier 22 tick 1.
+No learning curves available for tier 22 tick 1.
+No roc curve available for tier 22 tick 1.
+
+MODEL OF TIER 23, TICK 0
+	Accuracy: 0.9987985582699239
+	Precision: 0.0
+	Recall: 0.0
+	TNR: 1.0
+	FPR: 0.0
+	FNR: 1.0
+
+MODEL OF TIER 23, TICK 1
+	Accuracy: 0
+	Precision: 0
+	Recall: 0
+	TNR: 1.0
+	FPR: 0.0
+	FNR: 1.0
+No confusion matrix available for tier 23 tick 1.
+No learning curves available for tier 23 tick 1.
+No roc curve available for tier 23 tick 1.
+
+MODEL OF TIER 24, TICK 0
+	Accuracy: 0.9962264150943396
+	Precision: 0.0
+	Recall: 0.0
+	TNR: 1.0
+	FPR: 0.0
+	FNR: 1.0
+
+MODEL OF TIER 24, TICK 1
+	Accuracy: 0
+	Precision: 0
+	Recall: 0
+	TNR: 1.0
+	FPR: 0.0
+	FNR: 1.0
+No confusion matrix available for tier 24 tick 1.
+No learning curves available for tier 24 tick 1.
+No roc curve available for tier 24 tick 1.
+
+MODEL OF TIER 25, TICK 0
+	Accuracy: 1.0
+	Precision: 0.0
+	Recall: 0.0
+	TNR: 1.0
+	FPR: 0.0
+	FNR: 0
+No roc curve available for tier 25 tick 0.
+
+MODEL OF TIER 25, TICK 1
+	Accuracy: 0
+	Precision: 0
+	Recall: 0
+	TNR: 1.0
+	FPR: 0.0
+	FNR: 0
+No confusion matrix available for tier 25 tick 1.
+No learning curves available for tier 25 tick 1.
+No roc curve available for tier 25 tick 1.
+
+MODEL OF TIER 26, TICK 0
+	Accuracy: 1.0
+	Precision: 0.0
+	Recall: 0.0
+	TNR: 1.0
+	FPR: 0.0
+	FNR: 0
+No roc curve available for tier 26 tick 0.
+
+MODEL OF TIER 26, TICK 1
+	Accuracy: 0
+	Precision: 0
+	Recall: 0
+	TNR: 1.0
+	FPR: 0.0
+	FNR: 0
+No confusion matrix available for tier 26 tick 1.
+No learning curves available for tier 26 tick 1.
+No roc curve available for tier 26 tick 1.
+
+MODEL OF TIER 27, TICK 0
+	Accuracy: 0.5
+	Precision: 0.0
+	Recall: 0.0
+	TNR: 1.0
+	FPR: 0.0
+	FNR: 1.0
+No learning curves available for tier 27 tick 0.
+No roc curve available for tier 27 tick 0.
+
+MODEL OF TIER 27, TICK 1
+	Accuracy: 0
+	Precision: 0
+	Recall: 0
+	TNR: 1.0
+	FPR: 0.0
+	FNR: 1.0
+No confusion matrix available for tier 27 tick 1.
+No learning curves available for tier 27 tick 1.
+No roc curve available for tier 27 tick 1.
+
+MODEL OF TIER 28, TICK 0
+	Accuracy: 0
+	Precision: 0
+	Recall: 0
+	TNR: 1.0
+	FPR: 0.0
+	FNR: 1.0
+No confusion matrix available for tier 28 tick 0.
+No learning curves available for tier 28 tick 0.
+No roc curve available for tier 28 tick 0.
+
